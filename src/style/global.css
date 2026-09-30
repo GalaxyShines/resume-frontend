@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+div,
+span,
+p,
+header,
+section,
+footer,
+aside {
+  padding: 0 !important;
+  margin: 0 !important;
+  box-sizing: border-box !important;
+}
